@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mitchellnorth/MyWebApp/MyWebApp.csproj": {}
+    "/Users/mitchellnorth/Documents/GitHub/WebsiteCreation/MyWebApp.csproj": {}
   },
   "projects": {
-    "/Users/mitchellnorth/MyWebApp/MyWebApp.csproj": {
+    "/Users/mitchellnorth/Documents/GitHub/WebsiteCreation/MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mitchellnorth/MyWebApp/MyWebApp.csproj",
+        "projectUniqueName": "/Users/mitchellnorth/Documents/GitHub/WebsiteCreation/MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "/Users/mitchellnorth/MyWebApp/MyWebApp.csproj",
+        "projectPath": "/Users/mitchellnorth/Documents/GitHub/WebsiteCreation/MyWebApp.csproj",
         "packagesPath": "/Users/mitchellnorth/.nuget/packages/",
-        "outputPath": "/Users/mitchellnorth/MyWebApp/obj/",
+        "outputPath": "/Users/mitchellnorth/Documents/GitHub/WebsiteCreation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mitchellnorth/.nuget/NuGet/NuGet.Config"
